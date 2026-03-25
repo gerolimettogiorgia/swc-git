@@ -7,3 +7,4 @@
 - vegetables
 - more vegetables
 - even more vegetables
+- some proteins on pizza
