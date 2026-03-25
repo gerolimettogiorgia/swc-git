@@ -1,10 +1,8 @@
-#pizza:
+#piyya
+#pizza
+#ds
 
 #ingredients 
 - tomato 
 - mozzarella 
 - olive
-- vegetables
-- more vegetables
-- even more vegetables
-- some proteins on pizza
