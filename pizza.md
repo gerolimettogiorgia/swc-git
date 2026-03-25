@@ -6,3 +6,4 @@
 - tomato 
 - mozzarella 
 - olive
+- gemüse
