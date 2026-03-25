@@ -6,7 +6,6 @@
 - olive
 <<<<<<< HEAD
 - gemüse
-=======
 - vegetables
 - more vegetables
 - even more vegetables
